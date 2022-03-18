@@ -1,6 +1,6 @@
 # Projects Completed
 
-This repository provides a sample of my data analysis projects that I completed, and they include:
+This repository is a list of my data analysis projects and personal projects that I completed:
 
 Project Name  | Description   |  Category   |  Topic   |  Source
 ------------- | ------------- | ----------- | ----------|--------
