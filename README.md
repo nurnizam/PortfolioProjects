@@ -1,4 +1,4 @@
-# Portfolio Projects
+# Projects Completed
 
 This repository provides a sample of my data analysis projects that I completed, and they include:
 
